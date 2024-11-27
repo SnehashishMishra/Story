@@ -6,8 +6,10 @@ Adding the local repository to remote repository.
 
 2. git remote add origin <repo link> - Tells local repo that a remote repo is created somewhere on the internet and all the commits will be transfered over there.
     (i)      [NOTE: "origin" is the remote name and can be anything].
-    (ii)     (eg. repo link : https://github.com/RajeshWaghle/Story.git).
+    (ii)     (eg. repo link : https://github.com/SnehashishMishra/Story.git).
 
-3. git push -u <remote name> <branch name> - Pushes commits to the remote repo.
+3. git branch -M main - It move/rename the current (master) to (main) branch.
+
+4. git push -u <remote name> <branch name> - Pushes commits to the remote repo.
     (i)      remote name is "origin".
     (ii)     branch name is "main". ("main" branch is the default branch of all the commits)
