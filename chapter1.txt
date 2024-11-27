@@ -1,0 +1,14 @@
+It was the best of times, it was the worst of times.
+
+--------------- This is for local repository ------------------
+
+0. rm -rf .git - To remove git init.
+
+1. git init - Creating git local repository and tracking file changes.
+2. git status - Checks the working directory for untracked files.
+3. git add <filename> - To add untracked files to the staging area.
+4. git commit -m "<message>" - To commit the staged area and show the commit message.
+5. git log - To check all the commits.
+
+6. git diff <filename> - To check the difference between current version and the last version of the file.
+7. git checkout - To roll back to the last position in our local repository.

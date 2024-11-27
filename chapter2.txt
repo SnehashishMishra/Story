@@ -1,0 +1,19 @@
+It was the age of wisdom, it was the age of foolishness.
+
+GitHub tutorial for quick setup:-
+
+…or create a new repository on the command line
+
+echo "# Story" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/RajeshWaghle/Story.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/RajeshWaghle/Story.git
+git branch -M main
+git push -u origin main
