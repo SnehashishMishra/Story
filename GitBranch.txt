@@ -1,3 +1,5 @@
 ------------------ To create branches ------------------
 
 1. git branch <branch name> - Creates a git branch. [HERE: alien-plot]
+2. git branch - Shows the list of branches.
+3. git checkout alien-plot - To switch the branch.
