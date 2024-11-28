@@ -9,3 +9,5 @@
 1. git checkout main - Go to main branch first.
 2. git merge <branch name> - To merge the branch to main.
 3. :q! - It will open Vim editor, add any merge message or quit Vim by the command.
+
+NOTE: If there is a branch and dev changes something in main branch. After the merge changes on main will be as it was only the branch will be merged.
