@@ -1,0 +1,3 @@
+------------------ To create branches ------------------
+
+1. git branch <branch name> - Creates a git branch. [HERE: alien-plot]
