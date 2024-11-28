@@ -3,3 +3,9 @@
 1. git branch <branch name> - Creates a git branch. [HERE: alien-plot]
 2. git branch - Shows the list of branches.
 3. git checkout alien-plot - To switch the branch.
+
+------------------ To merge the new branch to main ------------------
+
+1. git checkout main - Go to main branch first.
+2. git merge <branch name> - To merge the branch to main.
+3. :q! - It will open Vim editor, add any merge message or quit Vim by the command.
